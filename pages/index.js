@@ -24,9 +24,9 @@ export default function Home({posts}) {
             </header>
             <div className="content">
               <p>
-                A responsive Next.js blog site discussing
+                A responsive Next.js blog site discussing 
                 <br />
-                some of my favorite.
+                some of my favorite topics.
               </p>
               <ul className="actions">
                 <li>
