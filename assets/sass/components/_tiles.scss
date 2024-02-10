@@ -130,7 +130,7 @@
 
 		@include breakpoint('<=small') {
 			article {
-				@include padding(3em, 1.5em);
+				@include padding(0em, 0em);
 				height: 16em;
 				max-height: none;
 				min-height: 0;
